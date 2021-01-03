@@ -1,4 +1,3 @@
-#UNITY 
 unity.com, 2758202, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
@@ -27,7 +26,7 @@ lemmatechnologies.com, 362, RESELLER
 google.com, pub-6451385060283536, RESELLER
 telaria.com, rwd19-2758202, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2758202, RESELLER, 1a4e959a1b50034a
-#STARTAPP 
+
 startapp.com, 7bbd82ad75150429af5867ffc7ccdbbe, DIRECT
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 yahoo.com, 1510636, RESELLER
@@ -123,3 +122,8 @@ e-planning.net, dfe3c13594cd35a3, DIRECT, c1ba615865ed87b2
 improvedigital.com, 1556, RESELLER
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
+admatic.com.tr, adm-pub-185375301865, DIRECT
+improvedigital.com, 912, RESELLER
+pubmatic.com, 159078, RESELLER, 5d62403b186f2ace
+adform.com, 2600, DIRECT
+stroeer.com, 17938, DIRECT
